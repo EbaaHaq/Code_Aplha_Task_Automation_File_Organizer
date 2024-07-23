@@ -1,1 +1,2 @@
-# Code_Aplha_Task_Automation-File_Organizer-
+# Code_Aplha_Task_Automation_File_Organizer
+This Python script automates the organization of files within a specified directory. It categorizes files into predefined folders based on their file extensions. The script handles various file types, such as images, documents, audio, video, archives, executables, and scripts. If a file's extension doesn't match any predefined category, it's moved to an "Others" folder. This ensures a clean and organized directory structure, making file management more efficient.
